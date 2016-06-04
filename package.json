@@ -1,0 +1,19 @@
+{
+  "name": "monog_test",
+  "version": "1.0.0",
+  "description": "Mongo certifications",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "url": "https://github.com/daya-cd/mongotuts"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongodb": "^2.1",
+    "consolidate":"*",
+    "nunjucks":"*"
+  
+  }
+}
